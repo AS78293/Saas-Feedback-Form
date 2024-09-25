@@ -13,6 +13,6 @@ How to Use
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/saas-platform-feedback.git
+git clone https://github.com/AS78293/saas-platform-feedback.git
 Open index.html in any modern web browser.
 Fill in the feedback form and submit your feedback.
